@@ -1,0 +1,15 @@
+#### Postgres DB connection Java implementation ####
+Connected successfully with Postgres database.
+
+Creating PERSON table.
+Table created successfully.
+
+Inserting data into table.
+Data inserted successfully.
+
+getting data from person table
+printing data from person table
+
+NAME = Abhishek Jain       
+AGE = 34
+state = MP    
